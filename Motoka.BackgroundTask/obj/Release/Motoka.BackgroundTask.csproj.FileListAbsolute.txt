@@ -1,0 +1,8 @@
+C:\app\build\Motoka.BackgroundTask.dll.config
+C:\app\build\Motoka.BackgroundTask.dll
+C:\app\build\Motoka.BackgroundTask.pdb
+C:\Motoka\Motoka.BackgroundTask\obj\Release\Motoka.BackgroundTask.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.BackgroundTask\obj\Release\Motoka.BackgroundTask.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.BackgroundTask\obj\Release\Motoka.B.F4FD1920.Up2Date
+C:\Motoka\Motoka.BackgroundTask\obj\Release\Motoka.BackgroundTask.dll
+C:\Motoka\Motoka.BackgroundTask\obj\Release\Motoka.BackgroundTask.pdb

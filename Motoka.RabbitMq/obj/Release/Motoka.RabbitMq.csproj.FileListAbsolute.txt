@@ -1,0 +1,8 @@
+C:\app\build\Motoka.RabbitMq.dll.config
+C:\app\build\Motoka.RabbitMq.dll
+C:\app\build\Motoka.RabbitMq.pdb
+C:\Motoka\Motoka.RabbitMq\obj\Release\Motoka.RabbitMq.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.RabbitMq\obj\Release\Motoka.RabbitMq.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.RabbitMq\obj\Release\Motoka.R.5A1004E7.Up2Date
+C:\Motoka\Motoka.RabbitMq\obj\Release\Motoka.RabbitMq.dll
+C:\Motoka\Motoka.RabbitMq\obj\Release\Motoka.RabbitMq.pdb

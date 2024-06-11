@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Motoka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}|Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj|c:\\motoka\\motoka.backgroundtask\\converter\\orderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}|Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj|solutionrelative:motoka.backgroundtask\\converter\\orderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}|Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj|c:\\motoka\\motoka.backgroundtask\\consumers\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}|Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj|solutionrelative:motoka.backgroundtask\\consumers\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBCF0B4-EC07-4512-8CF4-4AACB662E8C5}|Docker{3BBCF0B4-EC07-4512-8CF4-4AACB662E8C5}|C:\\Motoka\\DockerCompose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BBCF0B4-EC07-4512-8CF4-4AACB662E8C5}|Docker{3BBCF0B4-EC07-4512-8CF4-4AACB662E8C5}|solutionrelative:DockerCompose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|NewFolder1{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|C:\\Motoka\\001_Motoka.CreateTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|NewFolder1{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|solutionrelative:001_Motoka.CreateTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|c:\\motoka\\motoka.postgres\\mapper\\vehiclesmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|solutionrelative:motoka.postgres\\mapper\\vehiclesmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|c:\\motoka\\motoka.postgres\\mapper\\rentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|solutionrelative:motoka.postgres\\mapper\\rentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|c:\\motoka\\motoka.postgres\\mapper\\ordernotificationmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|solutionrelative:motoka.postgres\\mapper\\ordernotificationmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|c:\\motoka\\motoka.postgres\\mapper\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|solutionrelative:motoka.postgres\\mapper\\ordermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|c:\\motoka\\motoka.postgres\\mapper\\deliverydrivermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}|Motoka.Postgres\\Motoka.Postgres.csproj|solutionrelative:motoka.postgres\\mapper\\deliverydrivermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F4ECE-5B3B-4031-B064-0803522CC116}|Itens de Solu\u00E7\u00E3o{651F4ECE-5B3B-4031-B064-0803522CC116}|C:\\Motoka\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{651F4ECE-5B3B-4031-B064-0803522CC116}|Itens de Solu\u00E7\u00E3o{651F4ECE-5B3B-4031-B064-0803522CC116}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF80B1C2-306F-45F4-9DE3-A5D596F57097}|2-Service{FF80B1C2-306F-45F4-9DE3-A5D596F57097}|Motoka.BackgroundTask||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\motoka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\motoka.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}|Motoka.Service\\Motoka.Service.csproj|C:\\Motoka\\motoka.service\\deliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}|Motoka.Service\\Motoka.Service.csproj|solutionrelative:motoka.service\\deliverydriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\controllers\\deliverydrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\controllers\\deliverydrivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\motoka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\motoka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\advanced.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\rabbitmq.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Contracts\\ComplementRentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Contracts\\ComplementRentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Contracts\\DeliveryDriverDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Contracts\\DeliveryDriverDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Contracts\\MotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Contracts\\MotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\motoka\\controllers\\ordernotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:motoka\\controllers\\ordernotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Service\\GestaoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Service\\GestaoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Domain\\Gest\u00E3oRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Domain\\Gest\u00E3oRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka\\Controllers\\Gest\u00E3oController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka\\Controllers\\Gest\u00E3oController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Postgres\\Mapper\\DelivererMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Postgres\\Mapper\\DelivererMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Service\\Interface\\IGestaoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Service\\Interface\\IGestaoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Postgres\\Mapper\\MotoCadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Postgres\\Mapper\\MotoCadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Motoka\\Motoka.Domain\\IRepository\\IGestaoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motoka.Domain\\IRepository\\IGestaoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Motoka.Contracts||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Motoka.Service||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|c:\\motoka\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}|Motoka\\Motoka.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}|Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj|c:\\motoka\\motoka.backgroundtask\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|NewFolder1{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|C:\\Motoka\\001_Motoka.CreateTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|NewFolder1{88C3CA45-53B5-4B73-8025-C5F32CCA3566}|solutionrelative:001_Motoka.CreateTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitConsumer.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.BackgroundTask\\Consumers\\RabbitConsumer.cs",
+              "RelativeDocumentMoniker": "Motoka.BackgroundTask\\Consumers\\RabbitConsumer.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.BackgroundTask\\Consumers\\RabbitConsumer.cs",
+              "RelativeToolTip": "Motoka.BackgroundTask\\Consumers\\RabbitConsumer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:12:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderConverter.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.BackgroundTask\\Converter\\OrderConverter.cs",
+              "RelativeDocumentMoniker": "Motoka.BackgroundTask\\Converter\\OrderConverter.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.BackgroundTask\\Converter\\OrderConverter.cs",
+              "RelativeToolTip": "Motoka.BackgroundTask\\Converter\\OrderConverter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:12:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DockerCompose.yml",
+              "DocumentMoniker": "C:\\Motoka\\DockerCompose.yml",
+              "RelativeDocumentMoniker": "DockerCompose.yml",
+              "ToolTip": "C:\\Motoka\\DockerCompose.yml",
+              "RelativeToolTip": "DockerCompose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-11T21:09:47.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\RentMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\RentMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\RentMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\RentMap.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:03:20.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderNotificationMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\OrderNotificationMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\OrderNotificationMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\OrderNotificationMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\OrderNotificationMap.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:03:05.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\OrderMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\OrderMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\OrderMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\OrderMap.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:02:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeliveryDriverMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\DeliveryDriverMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\DeliveryDriverMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\DeliveryDriverMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\DeliveryDriverMap.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:58:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Motoka.BackgroundTask",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj",
+              "RelativeDocumentMoniker": "Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj",
+              "ToolTip": "C:\\Motoka\\Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj",
+              "RelativeToolTip": "Motoka.BackgroundTask\\Motoka.BackgroundTask.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T19:50:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Dockerfile",
+              "RelativeDocumentMoniker": "Motoka\\Dockerfile",
+              "ToolTip": "C:\\Motoka\\Motoka\\Dockerfile",
+              "RelativeToolTip": "Motoka\\Dockerfile",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T19:23:26.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Motoka\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Motoka\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:15:09.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiclesMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\VehiclesMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\VehiclesMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\VehiclesMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\VehiclesMap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:03:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "001_Motoka.CreateTable.sql ",
+              "DocumentMoniker": "C:\\Motoka\\001_Motoka.CreateTable.sql",
+              "RelativeDocumentMoniker": "001_Motoka.CreateTable.sql",
+              "ToolTip": "C:\\Motoka\\001_Motoka.CreateTable.sql",
+              "RelativeToolTip": "001_Motoka.CreateTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-11T21:05:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\appsettings.json",
+              "RelativeDocumentMoniker": "Motoka\\appsettings.json",
+              "ToolTip": "C:\\Motoka\\Motoka\\appsettings.json",
+              "RelativeToolTip": "Motoka\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T21:23:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Motoka.Contracts",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Contracts\\Motoka.Contracts.csproj",
+              "RelativeDocumentMoniker": "Motoka.Contracts\\Motoka.Contracts.csproj",
+              "ToolTip": "C:\\Motoka\\Motoka.Contracts\\Motoka.Contracts.csproj",
+              "RelativeToolTip": "Motoka.Contracts\\Motoka.Contracts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T19:21:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Motoka.Service",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Service\\Motoka.Service.csproj",
+              "RelativeDocumentMoniker": "Motoka.Service\\Motoka.Service.csproj",
+              "ToolTip": "C:\\Motoka\\Motoka.Service\\Motoka.Service.csproj",
+              "RelativeToolTip": "Motoka.Service\\Motoka.Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T19:21:03.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeliveryDriverService.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Service\\DeliveryDriverService.cs",
+              "RelativeDocumentMoniker": "Motoka.Service\\DeliveryDriverService.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Service\\DeliveryDriverService.cs",
+              "RelativeToolTip": "Motoka.Service\\DeliveryDriverService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:17:57.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\carlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\Users\\carlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\carlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\Users\\carlo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-11T19:17:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Motoka\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Motoka\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T05:16:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Motoka",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Motoka.csproj",
+              "RelativeDocumentMoniker": "Motoka\\Motoka.csproj",
+              "ToolTip": "C:\\Motoka\\Motoka\\Motoka.csproj",
+              "RelativeToolTip": "Motoka\\Motoka.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T05:14:14.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeliveryDriverController.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Controllers\\DeliveryDriverController.cs",
+              "RelativeDocumentMoniker": "Motoka\\Controllers\\DeliveryDriverController.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Controllers\\DeliveryDriverController.cs",
+              "RelativeToolTip": "Motoka\\Controllers\\DeliveryDriverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:25:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Motoka\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Motoka\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T06:04:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Motoka.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs",
+              "RelativeToolTip": "Motoka\\obj\\Debug\\netcoreapp3.1\\Motoka.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:36:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Motoka.csproj",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Motoka.csproj",
+              "RelativeDocumentMoniker": "Motoka\\Motoka.csproj",
+              "ToolTip": "C:\\Motoka\\Motoka\\Motoka.csproj",
+              "RelativeToolTip": "Motoka\\Motoka.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T17:47:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderNotificationController.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Controllers\\OrderNotificationController.cs",
+              "RelativeDocumentMoniker": "Motoka\\Controllers\\OrderNotificationController.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Controllers\\OrderNotificationController.cs",
+              "RelativeToolTip": "Motoka\\Controllers\\OrderNotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:33:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Program.cs",
+              "RelativeDocumentMoniker": "Motoka\\Program.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Program.cs",
+              "RelativeToolTip": "Motoka\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:43:45.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RentController.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Controllers\\RentController.cs",
+              "RelativeDocumentMoniker": "Motoka\\Controllers\\RentController.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Controllers\\RentController.cs",
+              "RelativeToolTip": "Motoka\\Controllers\\RentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:56:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GestaoService.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Service\\GestaoService.cs",
+              "RelativeDocumentMoniker": "Motoka.Service\\GestaoService.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Service\\GestaoService.cs",
+              "RelativeToolTip": "Motoka.Service\\GestaoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:35:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gest\u00E3oRepository.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Domain\\Gest\u00E3oRepository.cs",
+              "RelativeDocumentMoniker": "Motoka.Domain\\Gest\u00E3oRepository.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Domain\\Gest\u00E3oRepository.cs",
+              "RelativeToolTip": "Motoka.Domain\\Gest\u00E3oRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:06:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gest\u00E3oController.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka\\Controllers\\Gest\u00E3oController.cs",
+              "RelativeDocumentMoniker": "Motoka\\Controllers\\Gest\u00E3oController.cs",
+              "ToolTip": "C:\\Motoka\\Motoka\\Controllers\\Gest\u00E3oController.cs",
+              "RelativeToolTip": "Motoka\\Controllers\\Gest\u00E3oController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:31:09.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DelivererMap.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\DelivererMap.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\DelivererMap.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\DelivererMap.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\DelivererMap.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:09:14.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "rabbitmq.config",
+              "DocumentMoniker": "C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\rabbitmq.config",
+              "RelativeDocumentMoniker": "..\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\rabbitmq.config",
+              "ToolTip": "C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\rabbitmq.config",
+              "RelativeToolTip": "..\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\rabbitmq.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T20:53:54.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "advanced.config",
+              "DocumentMoniker": "C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\advanced.config",
+              "RelativeDocumentMoniker": "..\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\advanced.config",
+              "ToolTip": "C:\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\advanced.config",
+              "RelativeToolTip": "..\\Users\\carlo\\AppData\\Roaming\\RabbitMQ\\advanced.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T20:55:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGestaoService.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Service\\Interface\\IGestaoService.cs",
+              "RelativeDocumentMoniker": "Motoka.Service\\Interface\\IGestaoService.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Service\\Interface\\IGestaoService.cs",
+              "RelativeToolTip": "Motoka.Service\\Interface\\IGestaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:31:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MotoCadastro.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Mapper\\MotoCadastro.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Mapper\\MotoCadastro.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Mapper\\MotoCadastro.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Mapper\\MotoCadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:04:04.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MotoCasdatroDto.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs",
+              "RelativeDocumentMoniker": "Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs",
+              "RelativeToolTip": "Motoka.Postgres\\Dtos\\MotoCasdatroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:15:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComplementRentDto.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Contracts\\ComplementRentDto.cs",
+              "RelativeDocumentMoniker": "Motoka.Contracts\\ComplementRentDto.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Contracts\\ComplementRentDto.cs",
+              "RelativeToolTip": "Motoka.Contracts\\ComplementRentDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:14:23.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGestaoRepository.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Domain\\IRepository\\IGestaoRepository.cs",
+              "RelativeDocumentMoniker": "Motoka.Domain\\IRepository\\IGestaoRepository.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Domain\\IRepository\\IGestaoRepository.cs",
+              "RelativeToolTip": "Motoka.Domain\\IRepository\\IGestaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:14:02.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeliveryDriverDto.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Contracts\\DeliveryDriverDto.cs",
+              "RelativeDocumentMoniker": "Motoka.Contracts\\DeliveryDriverDto.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Contracts\\DeliveryDriverDto.cs",
+              "RelativeToolTip": "Motoka.Contracts\\DeliveryDriverDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:49:33.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MotoDto.cs",
+              "DocumentMoniker": "C:\\Motoka\\Motoka.Contracts\\MotoDto.cs",
+              "RelativeDocumentMoniker": "Motoka.Contracts\\MotoDto.cs",
+              "ToolTip": "C:\\Motoka\\Motoka.Contracts\\MotoDto.cs",
+              "RelativeToolTip": "Motoka.Contracts\\MotoDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:37:36.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>142be9d8-eb40-47fd-8557-a3d96904a73e</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.32" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Motoka.BackgroundTask\Motoka.BackgroundTask.csproj" />
+    <ProjectReference Include="..\Motoka.Domain\Motoka.Domain.csproj" />
+    <ProjectReference Include="..\Motoka.Postgres\Motoka.Postgres.csproj" />
+    <ProjectReference Include="..\Motoka.RabbitMq\Motoka.RabbitMq.csproj" />
+    <ProjectReference Include="..\Motoka.Service\Motoka.Service.csproj" />
+  </ItemGroup>
+
+</Project>

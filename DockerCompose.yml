@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: motoka
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+      
+  app:
+    build: .
+    depends_on:
+      - postgres
+      - rabbitmq
+    environment:
+    #ajustar parametros de acordo com as credencias do banco
+      - ConnectionStrings__DefaultConnection=User ID=postgres;Password=password;Host=localhost;Port=5432;Database=motoka
+    ports:
+      - "80:80"
+
+volumes:
+  postgres-data:

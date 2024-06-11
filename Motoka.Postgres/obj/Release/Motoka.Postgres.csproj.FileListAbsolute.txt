@@ -1,0 +1,7 @@
+C:\app\build\Motoka.Postgres.dll
+C:\app\build\Motoka.Postgres.pdb
+C:\Motoka\Motoka.Postgres\obj\Release\Motoka.Postgres.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.Postgres\obj\Release\Motoka.Postgres.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.Postgres\obj\Release\Motoka.P.D1AC0BBD.Up2Date
+C:\Motoka\Motoka.Postgres\obj\Release\Motoka.Postgres.dll
+C:\Motoka\Motoka.Postgres\obj\Release\Motoka.Postgres.pdb

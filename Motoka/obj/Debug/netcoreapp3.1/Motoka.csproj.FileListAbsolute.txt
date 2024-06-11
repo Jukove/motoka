@@ -1,0 +1,7 @@
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.csproj.AssemblyReference.cache
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.AssemblyInfoInputs.cache
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.AssemblyInfo.cs
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.MvcApplicationPartsAssemblyInfo.cs
+C:\Motoka\Motoka\obj\Debug\netcoreapp3.1\Motoka.MvcApplicationPartsAssemblyInfo.cache

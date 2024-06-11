@@ -1,0 +1,7 @@
+C:\app\build\Motoka.Domain.dll
+C:\app\build\Motoka.Domain.pdb
+C:\Motoka\Motoka.Domain\obj\Release\Motoka.Domain.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.Domain\obj\Release\Motoka.Domain.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.Domain\obj\Release\Motoka.D.190B0265.Up2Date
+C:\Motoka\Motoka.Domain\obj\Release\Motoka.Domain.dll
+C:\Motoka\Motoka.Domain\obj\Release\Motoka.Domain.pdb

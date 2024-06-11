@@ -1,0 +1,8 @@
+C:\app\build\Motoka.Contracts.dll.config
+C:\app\build\Motoka.Contracts.dll
+C:\app\build\Motoka.Contracts.pdb
+C:\Motoka\Motoka.Contracts\obj\Release\Motoka.Contracts.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.Contracts\obj\Release\Motoka.Contracts.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.Contracts\obj\Release\Motoka.C.FCC3CC9C.Up2Date
+C:\Motoka\Motoka.Contracts\obj\Release\Motoka.Contracts.dll
+C:\Motoka\Motoka.Contracts\obj\Release\Motoka.Contracts.pdb

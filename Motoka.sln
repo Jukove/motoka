@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Motoka", "Motoka\Motoka.csproj", "{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Application", "1-Application", "{726AC0A4-998B-4532-9B02-D946F96A26D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Service", "2-Service", "{FF80B1C2-306F-45F4-9DE3-A5D596F57097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.Service", "Motoka.Service\Motoka.Service.csproj", "{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.Contracts", "Motoka.Contracts\Motoka.Contracts.csproj", "{E1CE6503-B0EA-4F07-A618-57005BD6AE91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infra", "3-Infra", "{3E614C5B-F7C0-459D-A2E2-AFD1ECBCEA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.Postgres", "Motoka.Postgres\Motoka.Postgres.csproj", "{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Domain", "4-Domain", "{AB59D146-F156-4E08-889B-8CA1D1862A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.Domain", "Motoka.Domain\Motoka.Domain.csproj", "{080F4446-6840-4978-AD6D-58F5B921C010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.RabbitMq", "Motoka.RabbitMq\Motoka.RabbitMq.csproj", "{07380EE3-386D-4B72-8358-B98957C71ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoka.BackgroundTask", "Motoka.BackgroundTask\Motoka.BackgroundTask.csproj", "{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{3BBCF0B4-EC07-4512-8CF4-4AACB662E8C5}"
+	ProjectSection(SolutionItems) = preProject
+		DockerCompose.yml = DockerCompose.yml
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{651F4ECE-5B3B-4031-B064-0803522CC116}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{88C3CA45-53B5-4B73-8025-C5F32CCA3566}"
+	ProjectSection(SolutionItems) = preProject
+		001_Motoka.CreateTable.sql = 001_Motoka.CreateTable.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CE6503-B0EA-4F07-A618-57005BD6AE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CE6503-B0EA-4F07-A618-57005BD6AE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CE6503-B0EA-4F07-A618-57005BD6AE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CE6503-B0EA-4F07-A618-57005BD6AE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080F4446-6840-4978-AD6D-58F5B921C010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080F4446-6840-4978-AD6D-58F5B921C010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080F4446-6840-4978-AD6D-58F5B921C010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080F4446-6840-4978-AD6D-58F5B921C010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07380EE3-386D-4B72-8358-B98957C71ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07380EE3-386D-4B72-8358-B98957C71ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07380EE3-386D-4B72-8358-B98957C71ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07380EE3-386D-4B72-8358-B98957C71ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5B085B-0D7C-48D2-B955-1BEFA33440BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07CC1344-C4D6-4E13-AA60-10C1C5C62C8D} = {726AC0A4-998B-4532-9B02-D946F96A26D6}
+		{B47A14BB-CED2-41AB-8AFF-07F55D7E1EC1} = {FF80B1C2-306F-45F4-9DE3-A5D596F57097}
+		{E1CE6503-B0EA-4F07-A618-57005BD6AE91} = {FF80B1C2-306F-45F4-9DE3-A5D596F57097}
+		{6ABF41CF-C10B-43A5-9A57-CD0F09B398E6} = {3E614C5B-F7C0-459D-A2E2-AFD1ECBCEA5B}
+		{080F4446-6840-4978-AD6D-58F5B921C010} = {AB59D146-F156-4E08-889B-8CA1D1862A5E}
+		{07380EE3-386D-4B72-8358-B98957C71ED7} = {3E614C5B-F7C0-459D-A2E2-AFD1ECBCEA5B}
+		{1B5B085B-0D7C-48D2-B955-1BEFA33440BF} = {FF80B1C2-306F-45F4-9DE3-A5D596F57097}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FE0F8C-1CEA-42EB-85E0-728BA6CA37C7}
+	EndGlobalSection
+EndGlobal

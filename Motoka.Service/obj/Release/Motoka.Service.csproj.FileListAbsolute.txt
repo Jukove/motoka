@@ -1,0 +1,8 @@
+C:\app\build\Motoka.Service.dll.config
+C:\app\build\Motoka.Service.dll
+C:\app\build\Motoka.Service.pdb
+C:\Motoka\Motoka.Service\obj\Release\Motoka.Service.csproj.AssemblyReference.cache
+C:\Motoka\Motoka.Service\obj\Release\Motoka.Service.csproj.CoreCompileInputs.cache
+C:\Motoka\Motoka.Service\obj\Release\Motoka.S.357822CD.Up2Date
+C:\Motoka\Motoka.Service\obj\Release\Motoka.Service.dll
+C:\Motoka\Motoka.Service\obj\Release\Motoka.Service.pdb
