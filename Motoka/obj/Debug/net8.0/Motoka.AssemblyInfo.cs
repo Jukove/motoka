@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Motoka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+640427a24f4541abd08bfe8ae4334e356b8b32b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Motoka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Motoka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
